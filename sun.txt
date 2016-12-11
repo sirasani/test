@@ -1,11 +1,20 @@
 good morning...............gagag
+agag
+agag
 ag
+agg
 ag
 
+<<<<<<< HEAD
 agaga
 gag
-aga
+agaddd
 
 
 
 Today is sunday
+=======
+added new text to the existing file...........
+
+a
+>>>>>>> 4b95c91e82afd4d60d248c0bce3115abe28df10f
